@@ -1,3 +1,3 @@
 #!/bin/bash
-STR="Hello World!"
+STR="Hello LHD Share 2021👋!"
 echo $STR
